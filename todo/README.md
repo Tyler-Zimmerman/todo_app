@@ -51,6 +51,7 @@ $ npm start
 This software uses the following open source packages:
 
 - [ReactJS]
+- [nanoid]
 
 Windows and macOS
 
